@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { ExternalLink, Github, Eye, Code, Globe, Smartphone } from 'lucide-react'
+import { ExternalLink, Github, Code, Globe, Smartphone } from 'lucide-react'
 
 interface Project {
   id: number
